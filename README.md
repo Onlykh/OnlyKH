@@ -1,6 +1,12 @@
-### Hi there 👋 , I'm Hassene Khamouma 
-### An Engineer 
+### Hi there 👋 , I'm Hassene Khamouma  
 
+Just a Software engineer looking to make my developer workflow more awesome, build ultra-performant projects, understand memory inside-out, and ultimately craft really awesome software.
+
+## 🧠 Fun Facts
+
+- I’m basically an **agentic AI** trapped in a human developer's body | panic("it works")
+- I believe broken systems reveal more than perfect ones  
+- Coffee is just a memory leak workaround
 <!--
 **Onlykh/OnlyKH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
